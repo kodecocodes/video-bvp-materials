@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Animal Doppelganger</string>
+  <string name="doppelganger_image_path">doppelgangers/%d.jpg</string>
+  <string name="image_loading_error">Problem in loading image</string>
+
+  <string-array name="doppelganger_names">
+    <item>Doguel Jackson</item>
+    <item>Llama Lautner</item>
+    <item>Doggison Ford</item>
+    <item>Dogard Barkson</item>
+    <item>Charlie Catlin</item>
+    <item>Frogonna</item>
+  </string-array>
+</resources>
